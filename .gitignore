@@ -1,0 +1,6 @@
+.idea
+venv/
+db.sqlite
+redfin_*_results.csv
+*.pyc
+*.iml
